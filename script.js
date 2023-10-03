@@ -11,7 +11,7 @@ function updateWindowSize() {
 }
 
         // Call the function to initialize the size
-        updateWindowSize();
+updateWindowSize();
 
-        // Add event listener for window resize
-        window.addEventListener("resize", updateWindowSize);
+// Add event listener for window resize
+window.addEventListener("resize", updateWindowSize);
