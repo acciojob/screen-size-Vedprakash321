@@ -10,7 +10,7 @@ function updateWindowSize() {
 	heightSpan.textContent = window.innerHeight;
 }
 
-        // Call the function to initialize the size
+// Call the function to initialize the size
 updateWindowSize();
 
 // Add event listener for window resize
